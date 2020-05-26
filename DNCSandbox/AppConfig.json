@@ -1,0 +1,6 @@
+{
+    "ConnectionStrings": {
+        "Config": ""
+    },
+    "ExportBaseDirectory": "C:\\Development\\MyOkapis\\CXExporter\\_base"
+}

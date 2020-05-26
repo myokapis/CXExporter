@@ -1,0 +1,10 @@
+*DONE* create database
+*DONE* add batch procedure
+add sql config to export config
+update config to include OrgUnit and ModelName
+*DONE* fix header being output twice
+*DONE* fill in code to get model type by reflection
+*DONE* add keyfieldname to config somewhere
+*DONE* use presence/absense of keyfieldname to call correct constructor on mapper
+implement logging service
+build web app to configure exports
